@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Dwipanita
+- 🌱 I am Data Analyst Intern at Abhyaz
 - 👀 I’m interested in Data Science and Artificial Intelligence
 - 🌱 I’m currently pursuing a course on Data Science and Business Analytics 
 - 💞️ I love to learning new things
